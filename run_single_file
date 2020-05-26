@@ -1,0 +1,3 @@
+cat $1 | Compiler/./compile > CPSL_compiled.asm;
+
+java -jar mmips.jar CPSL_compiled.asm

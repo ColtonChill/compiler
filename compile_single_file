@@ -1,0 +1,1 @@
+cat $1 | Compiler/./compile > CPSL_compiled.asm;

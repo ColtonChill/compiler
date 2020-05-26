@@ -1,0 +1,6 @@
+./clean
+
+cd Compiler/
+cmake ../src
+make
+cd ../

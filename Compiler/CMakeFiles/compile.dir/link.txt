@@ -1,0 +1,1 @@
+/usr/bin/c++   -g3 -std=c++14   CMakeFiles/compile.dir/main.cpp.o CMakeFiles/compile.dir/RegisterPool.cpp.o CMakeFiles/compile.dir/symbol_table.cpp.o CMakeFiles/compile.dir/OffSets.cpp.o CMakeFiles/compile.dir/StrTable.cpp.o CMakeFiles/compile.dir/parser.cpp.o CMakeFiles/compile.dir/scanner.cpp.o  -o compile /usr/lib/x86_64-linux-gnu/libfl.so 
